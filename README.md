@@ -24,6 +24,6 @@
 ## c program to implement queue operations such as enqueue,dequeue,and display
 ## c program to implement tree traversals(inorder,preorder,postorder)
 ## c program to perform the following operations
-     a)insert an element into a avl tree
-     b)delete an element from a avl tree
-     c)search for a key element in a avl tree
+     ## a)insert an element into a avl tree
+   ## b)delete an element from a avl tree
+    ## c)search for a key element in a avl tree
